@@ -1,0 +1,5 @@
+.ant-tabs-top > .ant-tabs-nav::before {
+    width: 109px;
+    transform: translateX(-50%);
+    left: 50% !important;
+}

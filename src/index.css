@@ -1,0 +1,10 @@
+body {
+    background-color: #E5E5E5;
+}
+
+#root {
+    max-width: 1010px;
+    margin: 0 auto;
+    min-height: 100vh;
+    background-color: #FFFFFF;
+}

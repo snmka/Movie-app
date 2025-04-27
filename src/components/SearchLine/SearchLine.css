@@ -1,0 +1,22 @@
+.search {
+    display: flex;
+}
+
+.search__input {
+    margin-left: 32px;
+    margin-right: 32px;
+    height: 40px;
+    border: 1px solid #D9D9D9;
+    border-radius: 4px;
+    outline: 0;
+    padding: 9px 12px;
+    flex: 1;
+}
+
+@media (max-width: 425px) {
+    .search__input {
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}
+
